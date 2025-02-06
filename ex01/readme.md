@@ -5,7 +5,7 @@
 3. 프로젝트 초기화: 프로젝트 메니페스트 파일(package.json)를 생성
 
 
-```sh
+```
 
 # mkdir ex01
 # cd ex01
